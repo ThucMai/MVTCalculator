@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MVTCalculator</string>
+    <string name="dot">.</string>
+    <string name="zero">0</string>
+    <string name="pi">PI</string>
+    <string name="ans">ANS</string>
+    <string name="ansa">.ANS</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="_6">6</string>
+    <string name="x">x</string>
+    <string name="Div">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="del">DEL</string>
+    <string name="ac">AC</string>
+    <string name="Res">=</string>
+    <string name="more">MORE</string>
+    <string name="ax_b_c">ax+b=c</string>
+    <string name="ax_3_bx_2_cx_d_0">ax^3 + bx^2 + cx +d=0</string>
+    <string name="ax_2_bx_c_0">ax^2 +bx + c =0</string>
+    <string name="distance_conversion">Distance Conversion</string>
+    <string name="degree_conversion">Degree Conversion</string>
+    <string name="weight_conversion">weight conversion</string>
+    <string name="back">Back</string>
+    <string name="gia_ph_ng_tr_nh_b_c_nh_t">Giaỉ Phương trình bặc nhất</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="do_it">Do It</string>
+    <string name="ph_ng_tr_nh_m_t_n">PHƯƠNG TRÌNH MỘT ẨN</string>
+    <string name="reset">Reset</string>
+    <string name="ph_ng_tr_nh_b_c_2">PHƯƠNG TRÌNH BẬC 2</string>
+    <string name="c">C</string>
+    <string name="x_2">X^2</string>
+    <string name="mvt_calculator_1_0">MVT CALCULATOR 1.0</string>
+    <string name="ch_u_tr_ch_nhi_m_n_i_dung_mai_vi_t_th_c">Chịu trách nhiệm nội dung: Mai Việt Thúc</string>
+    <string name="m_i_th_ng_tin_xin_li_n_h_www_nowebsitehere_com">mọi thông tin xin liên hệ: www.nowebsitehere.com</string>
+    <string name="h_p_th_i_n_t_noemailexist_gmail_com">Hộp thư điện tử: noemailexist@gmail.com</string>
+</resources>
